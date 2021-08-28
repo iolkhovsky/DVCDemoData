@@ -266,3 +266,4 @@ pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,venv,virtualenv
 
+/raw_data.csv
